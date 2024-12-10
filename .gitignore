@@ -1,0 +1,25 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfplan
+*.log
+
+# Terraform provider binaries (you can add more if needed)
+terraform_*
+
+# Zip files (like the terraform_1.10.0-alpha20241009_linux_amd64.zip)
+*.zip
+
+# IDE specific files (VS Code, JetBrains, etc.)
+.vscode/
+.idea/
+
+# MacOS specific
+.DS_Store
+
+# Log files
+*.log
+
+
+
